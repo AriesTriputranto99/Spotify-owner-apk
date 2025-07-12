@@ -10,7 +10,7 @@ Running on Vercel serverless function, store data in Firebase (store only access
 
 Vercel change the package the free tier is not enough for our usage. I moved service to self-host at Digital Ocean.
 
-Please replace your old endpoint `https://spotify-github-profile.vercel.app` to `https://spotify-github-profile.kittinanx.com`
+Please replace your old endpoint `https://spotify-github-profile.vercel.app` to `https://spotify-github-profile.ariestriputranto.com`
 
 ## Table of Contents  
 [Connect And Grant Permission](#connect-and-grant-permission)  
@@ -29,7 +29,7 @@ Please replace your old endpoint `https://spotify-github-profile.vercel.app` to 
 
 - Click `Connect with Spotify` button below to grant permission
 
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.kittinanx.com/api/login)
+[<img src="/img/btn-spotify.png">](https://spotify-github-profile.ariestriputranto.com/api/login)
 
 ## Example
 
@@ -111,16 +111,19 @@ Vercel CLI 20.1.2 dev (beta) — https://vercel.com/feedback
 ## How to Contribute
 
 - Develop locally and submit a pull request!
-- Submit newly encountered bugs to the [Issues](https://github.com/kittinan/spotify-github-profile/issues) page
-- Submit feature suggestions to the [Issues](https://github.com/kittinan/spotify-github-profile/issues) page, with the label [Feature Suggestion]
+- Submit newly encountered bugs to the [Issues](https://github.com/ariestriputranto/spotify-github-profile/issues) page
+- Submit feature suggestions to the [Issues](https://github.com/ariestriputranto/spotify-github-profile/issues) page, with the label [Feature Suggestion]
 
 ## Known Bugs
 
-[404/500 Error when playing local files](https://github.com/kittinan/spotify-github-profile/issues/19)
+[404/500 Error when playing local files](https://github.com/ariestriputranto/spotify-github-profile/issues/19)
 
 ## Other Platforms
-- [Apple Music GitHub Profile](https://github.com/rayriffy/apple-music-github-profile)
+- [Apple Music GitHub Profile](https://github.com/identity/apple-music-github-profile)
 
 ## Credit
 
 Inspired by https://github.com/natemoo-re
+
+## [License MIT](https://github.com/AriesTriputranto99/Spotify-owner-apk?tab=MIT-1-ov-file)
+ 
